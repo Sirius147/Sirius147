@@ -41,6 +41,9 @@ Here are some ideas to get you started:
  <br>
 
 🟦 **경력 사항** <br>
+
+* 2020년 육군 2사단 해체 이후 12사단 향로봉 대대 6중대 병장 만기전역
+
 * 2021년 숭실대학교 입학 <br>
 
 * 2022년 숭실대학교 게임 개발 동아리 Kaleido 활동 <br>

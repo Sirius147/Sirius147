@@ -71,6 +71,11 @@ Here are some ideas to get you started:
 
 <br>
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirius21)](https://solved.ac/sirius21)
+
+
 💚 **Contact** <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/siriusoo_21/) <br>

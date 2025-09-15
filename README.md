@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   ### 🌱기술과 아이디어, 열정의 조화를 추구하는 개발자 이성일입니다! <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sirius21)](https://solved.ac/sirius21)
   
   <br>
   

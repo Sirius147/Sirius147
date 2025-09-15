@@ -16,6 +16,43 @@ Here are some ideas to get you started:
 -->
 
 
+---
+
+**대표 프로젝트** <br>
+ 
+* 개발자, 예비 개발자를 위한 프로젝트 모집 및 관리 플랫폼 [DevMate](https://github.com/Sirius147/DevMate)  <br>
+ 
+* 사용자만의 지도를 공유하는 나만의 장소 공유 플랫폼 [Mappride](https://github.com/Sirius147/Mappride) <br>
+ 
+* 2d 횡스크롤 게임 [GarlicPotato](https://github.com/Sirius147/GarlicPotato) <br>
+  
+* SRCNN을 통한 이미지 해상도 변환 신경망 cutomize 프로젝트 [CutomSRCNN](https://github.com/Sirius147/img-transforming-Neural-Nets-Studying) <br>
+ 
+* msa 환경 에서 구동하는 kafka base order system <br>
+
+ <br>
+ 
+
+**기술 공부** <br>
+ 
+* STOMP를 이용한 실시간 웹소켓 채팅 <br>
+ 
+* Docker, EC2&RDS와 Nginx 및 Github Actions를 통한 백엔드 시스템 배포 <br>
+ 
+* OAuth2&JWT를 통한 인증 시스템 <br>
+ 
+* msa와 kafka를 통한 실제 시스템, b2b(ERP)시스템 구현 <br>
+
+ <br>
+ 
+
+  **자격증&수상내역** <br>
+ 
+  * 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2024 지능화혁신아이디어경진대회 대상  <br>
+  * 정보처리기사 <br>
+
+
+  
 --- 
 
 **LANGUAGE & FRAMEWORK** </BR>

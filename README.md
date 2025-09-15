@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![amazon](https://github.com/user-attachments/assets/0713b793-2d1e-40df-b31a-0005c2d18625)
-<img src="https://img.shields.io/badge/kafka-#231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/kafka-#231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
 </BR> </BR>
 
 **SECURITY** </BR>

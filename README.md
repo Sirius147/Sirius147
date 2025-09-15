@@ -1,4 +1,4 @@
-## <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sirius%20GITHUB&fontSize=90" /> 
+## <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sirius's%20GITHUB&fontSize=90" /> 
 
 <!--
 **Sirius147/Sirius147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-  ### 🌱기술과 아이디어 열정의 조화를 지향하는 개발자 이성일입니다! <br><br>
+  ### 🌱기술과 아이디어, 열정의 조화를 추구하는 개발자 이성일입니다! <br><br>
   
 
 

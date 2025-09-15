@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![gradle](https://github.com/user-attachments/assets/3e2aecfc-6ca4-4c16-b05a-857ea967c265)
 <img src="https://img.shields.io/badge/SpringBoot-10B146?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776ABstyle=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-#3776ABstyle=for-the-badge&logo=python&logoColor=white">
 
 
 </BR> </BR>

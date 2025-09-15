@@ -34,12 +34,18 @@ Here are some ideas to get you started:
  <br>
 
 🟦 **경력 사항** <br>
-2021년 숭실대학교 입학 <br>
-2022년 숭실대학교 게임 개발 동아리 Kaleido 활동 <br>
-2022년 숭실대학교 게임 개발 동아리 Kaleido 주최 대회 대상 수상 <br>
-2025년 숭실대학교 졸업 <br>
-2025년 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2025 지능화혁신아이디어경진대회 대상 수상 <br>
-2025년 정보처리기사 자격증 획득 <br> 
+* 2021년 숭실대학교 입학 <br>
+
+* 2022년 숭실대학교 게임 개발 동아리 Kaleido 활동 <br>
+
+* 2022년 숭실대학교 게임 개발 동아리 Kaleido 주최 대회 대상 수상 <br>
+
+* 2025년 숭실대학교 졸업 <br>
+
+* 2025년 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2025 지능화혁신아이디어경진대회 대상 수상 <br>
+
+* 2025년 정보처리기사 자격증 획득 <br>
+  
 
 🟦 **기술 공부** <br>
  
@@ -62,7 +68,9 @@ Here are some ideas to get you started:
 
 💚 **Contact** <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/siriusoo_21/) <br>
-  
+
+[![기술 블로그](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sirius2_1/posts)
+
 --- 
 
 **LANGUAGE & FRAMEWORK** </BR>

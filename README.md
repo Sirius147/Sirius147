@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
+🌱 기술과 아이디어 열정의 조화를 지향하는 개발자 이성일입니다!
 
 🟦 **대표 프로젝트** <br>
  
@@ -65,8 +66,10 @@ Here are some ideas to get you started:
   * 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2025 지능화혁신아이디어경진대회 대상  <br>
   * 정보처리기사 <br>
 
+<br>
 
 💚 **Contact** <br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/siriusoo_21/) <br>
 
 [![기술 블로그](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sirius2_1/posts)

@@ -25,12 +25,14 @@ Here are some ideas to get you started:
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![gradle](https://github.com/user-attachments/assets/3e2aecfc-6ca4-4c16-b05a-857ea967c265)
 <img src="https://img.shields.io/badge/SpringBoot-10B146?style=for-the-badge&logo=SpringBoot&logoColor=white">
+
 </BR> </BR>
 
 **DB** </BR>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![amazon](https://github.com/user-attachments/assets/0713b793-2d1e-40df-b31a-0005c2d18625)
+<img src="https://img.shields.io/badge/kafka-#231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 </BR> </BR>
 
 **SECURITY** </BR>
@@ -56,3 +58,8 @@ Here are some ideas to get you started:
 **WIRE_FRAME** </BR>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  </BR>
+
+
+**ETC** </br>
+
+	![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) </br>

@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ---
 
-**대표 프로젝트** <br>
+
+🟦 **대표 프로젝트** <br>
  
 * 개발자, 예비 개발자를 위한 프로젝트 모집 및 관리 플랫폼 [DevMate](https://github.com/Sirius147/DevMate)  <br>
  
@@ -31,9 +32,16 @@ Here are some ideas to get you started:
 * msa 환경 에서 구동하는 kafka base order system <br>
 
  <br>
- 
 
-**기술 공부** <br>
+🟦 **경력 사항** <br>
+2021년 숭실대학교 입학 <br>
+2022년 숭실대학교 게임 개발 동아리 Kaleido 활동 <br>
+2022년 숭실대학교 게임 개발 동아리 Kaleido 주최 대회 대상 수상 <br>
+2025년 숭실대학교 졸업 <br>
+2025년 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2025 지능화혁신아이디어경진대회 대상 수상 <br>
+2025년 정보처리기사 자격증 획득 <br> 
+
+🟦 **기술 공부** <br>
  
 * STOMP를 이용한 실시간 웹소켓 채팅 <br>
  
@@ -46,12 +54,14 @@ Here are some ideas to get you started:
  <br>
  
 
-  **자격증&수상내역** <br>
+ 🟦 **자격증&수상내역** <br>
  
-  * 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2024 지능화혁신아이디어경진대회 대상  <br>
+  * 과학기술정보통신부 정보통신기획평가원, 배재대학교 주관 2025 지능화혁신아이디어경진대회 대상  <br>
   * 정보처리기사 <br>
 
 
+💚 **Contact** <br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/siriusoo_21/) <br>
   
 --- 
 

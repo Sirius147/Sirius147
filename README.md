@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
 * 사용자만의 지도를 공유하는 나만의 장소 공유 플랫폼 ⚡ [Mappride](https://github.com/Sirius147/Mappride) <br>
 
-* msa 아키텍처로 구동하는 kafka base 분산 order system ✨ <br> [OpenOrder](https://github.com/Sirius147/OpenOrder)
+* msa 아키텍처로 구동하는 kafka base 분산 order system ✨  [OpenOrder](https://github.com/Sirius147/OpenOrder)
  
 * 2d 횡스크롤 게임 👯 [GarlicPotato](https://github.com/Sirius147/GarlicPotato) <br>
   

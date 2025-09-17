@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 * 개발자, 예비 개발자를 위한 프로젝트 모집 및 관리 플랫폼 📫 [DevMate](https://github.com/Sirius147/DevMate)  <br>
  
 * 사용자만의 지도를 공유하는 나만의 장소 공유 플랫폼 ⚡ [Mappride](https://github.com/Sirius147/Mappride) <br>
+
+* msa 아키텍처로 구동하는 kafka base 분산 order system ✨ <br> [OpenOrder](https://github.com/Sirius147/OpenOrder)
  
 * 2d 횡스크롤 게임 👯 [GarlicPotato](https://github.com/Sirius147/GarlicPotato) <br>
   
 * SRCNN을 통한 이미지 해상도 변환 신경망 cutomize 프로젝트 🔭 [CutomSRCNN](https://github.com/Sirius147/img-transforming-Neural-Nets-Studying) <br>
- 
-* msa 환경 에서 구동하는 kafka base order system ✨ <br> 
+
 
  <br>
 

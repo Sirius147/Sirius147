@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🟦 **대표 프로젝트** <br>
 
-* * msa + kafka 분산 전자상거래 시스템 ✨  [Le-Ecommerce](https://github.com/Sirius147/Le-Ecommerce) <br>
+*  msa + kafka 분산 전자상거래 시스템 ✨  [Le-Ecommerce](https://github.com/Sirius147/Le-Ecommerce) <br>
 
 * 개발자, 예비 개발자를 위한 프로젝트 모집 및 관리 플랫폼 📫 [DevMate](https://github.com/Sirius147/DevMate)  <br>
  

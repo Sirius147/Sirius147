@@ -27,17 +27,16 @@ Here are some ideas to get you started:
 
 
 🟦 **대표 프로젝트** <br>
- 
+
+* * msa + kafka 분산 전자상거래 시스템 ✨  [Le-Ecommerce](https://github.com/Sirius147/Le-Ecommerce) <br>
+
 * 개발자, 예비 개발자를 위한 프로젝트 모집 및 관리 플랫폼 📫 [DevMate](https://github.com/Sirius147/DevMate)  <br>
  
 * 사용자만의 지도를 공유하는 나만의 장소 공유 플랫폼 ⚡ [Mappride](https://github.com/Sirius147/Mappride) <br>
-
-* msa 아키텍처로 구동하는 kafka base 분산 order system ✨  [OpenOrder](https://github.com/Sirius147/OpenOrder)
  
 * 2d 횡스크롤 게임 👯 [GarlicPotato](https://github.com/Sirius147/GarlicPotato) <br>
   
 * SRCNN을 통한 이미지 해상도 변환 신경망 cutomize 프로젝트 🔭 [CutomSRCNN](https://github.com/Sirius147/img-transforming-Neural-Nets-Studying) <br>
-
 
  <br>
 
@@ -58,15 +57,14 @@ Here are some ideas to get you started:
 * 2025년 정보처리기사 자격증 획득 <br>
   
 
-🟦 **기술 공부** <br>
- 
-* STOMP를 이용한 실시간 웹소켓 채팅 <br>
- 
-* Docker, EC2&RDS와 Nginx 및 Github Actions를 통한 백엔드 시스템 배포 <br>
- 
+🟦 **주요 기술** <br>
+
+* msa와 kafka & Zipkin, prometheus 활용 분산시스템 관리 및 추적 <br>
+
 * OAuth2&JWT를 통한 인증 시스템 <br>
  
-* msa와 kafka를 통한 실제 시스템, b2b(ERP)시스템 구현 <br>
+* Docker, EC2&RDS와  Github Actions를 통한 백엔드 CI/CD <br>
+ 
 
  <br>
  
@@ -109,7 +107,6 @@ Here are some ideas to get you started:
 **DB** </BR>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![amazon](https://github.com/user-attachments/assets/0713b793-2d1e-40df-b31a-0005c2d18625)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 </BR> </BR>
 
@@ -124,14 +121,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![EC2](https://github.com/user-attachments/assets/4869b01e-be93-4da6-9d18-8d098e3b1971)
 ![image](https://github.com/user-attachments/assets/5e1795a5-88c5-4411-93cd-8afcf16d781e)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **IDE** </BR>
 
-![postman](https://github.com/user-attachments/assets/4bcd5043-6841-4cd1-b864-dec4dc39f918)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) </BR> </BR>
 
 **WIRE_FRAME** </BR>
